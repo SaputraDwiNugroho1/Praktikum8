@@ -8,18 +8,23 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 - Commit dan Push repository ke Github.
 
 TULIS SOURCE CODE SEPERTI GAMBAR DI BAWAH INI :
+
+
 ![gambar 1](ss/1.png)
 ![gambar 2](ss/2.png)
 ![gambar 3](ss/3.png)
 
 HASIL RUN :
 - Tambah Data
+
 ![gambar 4](ss/4.png)
 
 - Lihat Data
+
 ![gambar 5](ss/5.png)
 
 - Keluar
+
 ![gambar 6](ss/6.png)
 
 ## Penjelasan
@@ -38,3 +43,4 @@ HASIL RUN :
 ## Flowchart Praktikum 8
 
 ![gambar 8](ss/8.png)
+
